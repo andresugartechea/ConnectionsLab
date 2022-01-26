@@ -1,6 +1,6 @@
-# Week 1:
+## Week 1:
 
-## January 25th: Pick a connected application of your choice. It can be from the list we looked at in class or otherwise. Write a 300-500 word critique on the application. What do you think works? What doesn't? What would you like to do differently? This has to be available on your GitHub.
+### January 25th: Pick a connected application of your choice. It can be from the list we looked at in class or otherwise. Write a 300-500 word critique on the application. What do you think works? What doesn't? What would you like to do differently? This has to be available on your GitHub.
 
 The connected application that was the most appealing for me was [_“Connected Worlds”_](https://classic.nysci.org/experiencenysci/exhibits/connected-worlds/) by NYSCI for its subject-matter, that is sustainability, and for its location in New York. The concept of this app is to give the user the experience of living in multiple ecosystems while being responsible for their preservation. The goal is to make the audience aware of the impact that their actions can have on the environment, creating interactive sequences with animations that continue in function of the decisions of the user.
 
