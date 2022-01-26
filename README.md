@@ -1,2 +1,4 @@
-# ConnectionsLab
-Connections Lab, Spring 2022
+# Andres Ugartechea | CONNECTIONS LAB
+
+## Homeworks:
+[week 1]()
