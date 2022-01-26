@@ -8,4 +8,4 @@ From the advertisement on their website and its aesthetics, I deduce that the ta
 
 However, I think what doesn’t work for this application is that the same type of aesthethics that are attractive for a young audience might be unappealing for an older one, which would limit its reception and impact. From my point of view, when a topic is treated with a tone for kids it substracts seriousness and importance. I think this could be fixed by changing the animation, with animals and ecosystems that look more similar to the real world. In addition to this, I think I’d be fantastic to have something to interact with out of the screen, like buttons or levers that complement the interactivity.
 
-<img src="connected_worlds.jpg" height ="700" />
+<img src="connected_worlds.jpg" height ="200" />
