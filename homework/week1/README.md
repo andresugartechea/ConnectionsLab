@@ -14,6 +14,8 @@ However, I think what doesn’t work for this application is that the same type 
 
 <img src="wireframe.png" height ="500" />
 
+<img src="screenshot.png" height ="700" />
+
 [_Click here to see my website_](https://andresugartechea.github.io/ConnectionsLab/homework/week1/2_HTML_CSS_SSINY/)
 
 
