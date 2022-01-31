@@ -1,6 +1,6 @@
 ## Week 1:
 
-### Class I, pt.1 | January 25th: Pick a connected application of your choice. It can be from the list we looked at in class or otherwise. Write a 300-500 word critique on the application. What do you think works? What doesn't? What would you like to do differently? This has to be available on your GitHub.
+### Class I, pt.1 | January 25th: _"Pick a connected application of your choice. It can be from the list we looked at in class or otherwise. Write a 300-500 word critique on the application. What do you think works? What doesn't? What would you like to do differently? This has to be available on your GitHub."_
 
 The connected application that was the most appealing for me was [_“Connected Worlds”_](https://classic.nysci.org/experiencenysci/exhibits/connected-worlds/) by NYSCI for its subject-matter, that is sustainability, and for its location in New York. The concept of this app is to give the user the experience of living in multiple ecosystems while being responsible for their preservation. The goal is to make the audience aware of the impact that their actions can have on the environment, creating interactive sequences with animations that continue in function of the decisions of the user.
 
@@ -10,7 +10,9 @@ However, I think what doesn’t work for this application is that the same type 
 
 <img src="connected_worlds.jpg" height ="300" />
 
-### Class I, pt.2 | January 27th:
+### Class I, pt.2 | January 27th: _"MAKE a simple wireframe of one of your present/past projects. If you have multiple wireframes, that's ok! Share all of them as part of your process. MAKE a webpage version of the wireframe you have designed. Your assignment should include a .html file and a .css file."_
+
+<img src="wireframe.png" height ="300" />
 
 [_Click here to see my website_](https://andresugartechea.github.io/ConnectionsLab/homework/week1/2_HTML_CSS_SSINY/)
 
