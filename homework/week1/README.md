@@ -14,9 +14,12 @@ However, I think what doesn’t work for this application is that the same type 
 
 For this assignment, I decided to code a website for my _Introduction to IM_'s final project called _"SSINY"_, an interactive painting working with sensors on Arduino, and reproduced and drawn on Processing. The serial communication between these two software allows the user to participate in the making of this piece. The purpose of this project is to reinforce the melancholic tone of the original painting through the interactivity provided by the sensors, adding sound, movement, animation and playing with the color palette.
 
-Since my project is 
+To showcase my project on the website, I want to have an image displaying my artwork and a video explaining how it works with the sensors. This is the wireframe I considered the most efficient for this:
 
+#### Wireframe :
 <img src="wireframe.png" height ="500" />
+
+#### Preview: 
 
 <img src="screenshot.png" height ="500" />
 
