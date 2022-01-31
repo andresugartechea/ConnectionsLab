@@ -17,7 +17,10 @@ For this assignment, I decided to code a website for my _Introduction to IM_'s f
 To showcase my project on the website, I want to have an image displaying my artwork and a video explaining how it works with the sensors. This is the wireframe I considered the most efficient for this:
 
 #### Wireframe :
+
 <img src="wireframe.png" height ="500" />
+
+Coding the website was simple after learning how to use ['display: flex'](https://flexboxfroggy.com/) on CSS. I also coded a sample webpage to study the different tags on HTML and properties on CSS.
 
 #### Preview: 
 
