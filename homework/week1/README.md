@@ -22,7 +22,7 @@ To showcase my project on the website, I want to have an image displaying my art
 
 <img src="wireframe.png" height ="500" />
 
-Coding the website was simple after learning how to use ['display: flex'](https://flexboxfroggy.com/) on CSS. I also coded a sample webpage to study the different tags on HTML and properties on CSS.
+Coding the website was simple after learning how to use ['display: flex'](https://flexboxfroggy.com/) on CSS. I also coded a [sample webpage](https://andresugartechea.github.io/ConnectionsLab/homework/week1/1_INTRO_TO_HTML) to study the different tags on HTML and properties on CSS.
 
 #### Preview: 
 
