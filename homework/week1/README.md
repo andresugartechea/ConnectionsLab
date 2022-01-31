@@ -12,7 +12,7 @@ However, I think what doesn’t work for this application is that the same type 
 
 ### Class I, pt.2 | January 27th: _"MAKE a simple wireframe of one of your present/past projects. If you have multiple wireframes, that's ok! Share all of them as part of your process. MAKE a webpage version of the wireframe you have designed. Your assignment should include a .html file and a .css file."_
 
-<img src="wireframe.png" height ="300" />
+<img src="wireframe.png" height ="500" />
 
 [_Click here to see my website_](https://andresugartechea.github.io/ConnectionsLab/homework/week1/2_HTML_CSS_SSINY/)
 
