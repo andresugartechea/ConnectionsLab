@@ -1,4 +1,4 @@
 # Andres Ugartechea | CONNECTIONS LAB
 
 ## Homeworks:
-[week 1](https://github.com/andresugartechea/ConnectionsLab/blob/main/homework/week1.md)
+[week 1](https://github.com/andresugartechea/ConnectionsLab/tree/main/homework/week1)
