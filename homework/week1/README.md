@@ -12,6 +12,10 @@ However, I think what doesn’t work for this application is that the same type 
 
 ### Class I, pt.2 | January 27th: _"MAKE a simple wireframe of one of your present/past projects. If you have multiple wireframes, that's ok! Share all of them as part of your process. MAKE a webpage version of the wireframe you have designed. Your assignment should include a .html file and a .css file."_
 
+For this assignment, I decided to code a website for my _Introduction to IM_'s final project called _"SSINY"_, an interactive painting working with sensors on Arduino, and reproduced and drawn on Processing. The serial communication between these two software allows the user to participate in the making of this piece. The purpose of this project is to reinforce the melancholic tone of the original painting through the interactivity provided by the sensors, adding sound, movement, animation and playing with the color palette.
+
+Since my project is 
+
 <img src="wireframe.png" height ="500" />
 
 <img src="screenshot.png" height ="500" />
