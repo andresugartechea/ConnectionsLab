@@ -12,4 +12,6 @@ However, I think what doesn’t work for this application is that the same type 
 
 ### Class I, pt.2 | January 27th:
 
+[_Click here to see my website_](https://andresugartechea.github.io/ConnectionsLab/homework/week1/)
+
 
