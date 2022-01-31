@@ -1,0 +1,69 @@
+<!-- TO START, type html and select second option with "html:5"  -->
+<!-- It's also important to download the  'Live Server' extension to see a preview of the website -->
+<!DOCTYPE html>
+
+<!-- TO CHOOSE LANGUAGE of the page -->
+<html lang="en">
+
+<!-- "head" contains informations about the links and references to CSS -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- TO TITLE THE WEBSITE -->
+    <title>TITLE of website's TAB</title>
+    <!-- TO ADD AND ICON: <link rel="icon" type="image/x-icon" href="/images/favicon.ico"> -->
+
+    <!-- TO LINK THE CSS TO STYLE THE WEBSITE -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<!-- "body" contains what is on the website -->
+<body>
+
+    <!-- TO WRITE THE HEADERS -->
+    <h1>'h1' displays text big</h1>
+    <h2>'h2' displays text smaller</h2>
+    <h3>'h3' displays text even smaller!</h3>
+    
+    <nav id="navigation">
+    <!--Placed here as a possible navigation bar. 'nav'  defines a set of navigation links:  -->
+        <a href="https://www.youtube.com/watch?v=z9JAFiZePms">YOUTUBE link</a> |
+        <a href="https://www.facebook.com/groups/nyuad.room.of.requirement">FACEBOOK link</a> |
+    </nav>
+
+
+    <section class = "container">
+
+        <!-- div: add divisions to the web document -->
+        <div class="container__images">
+        <!-- we use the id to refer to this particular division in the css -->
+            <!-- 'img alt' serves to display a message in case the image doesn't load, after 'src' we write the link of the image -->
+            <center> <img alt="a picture of a cat" src="https://media.istockphoto.com/photos/european-short-haired-cat-picture-id1072769156?s=612x612"/> </center>
+        </div>
+
+        <div class="container__text">
+            <!-- 'br' is a line break -->
+            <p> This is a sample text: <br> <b>bold</b> <cite>cite</cite> <i>italics</i> <big>big</big> <small>small</small> <del>deleted</del> <sub>subscipted</sub> <sup>superscripted</sup> </p>
+            
+            <!-- 'ol' defines an ordered list of items, USE 'ul' for unordered-->
+            <ol>
+            <li><pre>list and pre</pre></li>
+            <fieldset><li>list and fieldset</fieldset></li></fieldset>
+            <li>list and hr after</li><hr>
+            </ol>
+
+            <!-- To add hyperlinks: 'taget...' serves to open a link on a new TAB. W/o it it opens on the same TAB-->
+            <!-- we can write ids '#' in the 'href' -->
+            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element" target="_black"> ('a' AnchorTag) CLICK HERE to see all the possible TAGS</a>
+            
+            <br><acronym title="This Is An Acronym" >Place cursor to see the Acronym </acronym>
+            <br><iframe src="https://www.youtube.com/watch?v=FjvYEKUruts" title="Frame of another website"></iframe>
+
+        </div>
+    </section>
+
+
+</body>
+</html>

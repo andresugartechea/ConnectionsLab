@@ -1,0 +1,25 @@
+/*we need to include the reference in the html file in the 'head' */
+
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+/* id's '#" > classes '.' since they're more specific */
+
+/* # to refer to id's, we don't use them to style preferably*/
+#navigation {
+    background-color: rgb(255, 255, 255);
+}  
+
+/* " . " to refer to classes, we use them to style */
+
+.container__images {
+    background-color: rgb(78, 78, 31);
+}
+
+.container__text {
+    background-color: rgb(0, 0, 218);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
