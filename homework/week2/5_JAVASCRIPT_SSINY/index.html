@@ -1,0 +1,42 @@
+<!-- 
+    Name: Andres Ugartechea
+    Class 2, part 2
+    Assignment: "MAKE a meaningful webpage (or part of a larger web application) that has at least two event-driven user interactions that are handled in a script.js   
+                file. Examples of events include mouse clicks, key presses, window scrolls and many others (window onload does not count). Here are some possible examples (counter, FAQ accordian, 1 week calendar, to do list, image carousel, chat interaction) Your submission should include a .html file, a .css file and a .js file.""
+ -->
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Andres' Portfolio</title>
+    <link rel="icon" type="image/x-icon" href="./images/favicon.ico">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1><center>Andres' portfolio.</center></h1>
+
+    <!-- To create the image carousel -->
+    <div class="gallery">
+        <button class="gallery__button" id="previous-button">❮</button>
+        <img class="gallery__image" id="image-display" alt="SSINY" src="./images/image1.PNG"/>
+        <button class="gallery__button" id="next-button">❯</button>
+    </div>
+
+    <!-- To give a description of each image -->
+    <div class="description">
+        <button class="description__button" id="read-description">Read Description</button>
+        <p class="description__text" id="description"> "image description" </p>
+    </div>
+
+    <!-- Link to the .js -->
+    <script src="app.js"></script>
+</body>
+
+</html>
