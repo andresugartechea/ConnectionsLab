@@ -2,15 +2,15 @@
 
 ### Class II, pt.2 | February 3r: _" MAKE a meaningful webpage (or part of a larger web application) that has at least two event-driven user interactions that are handled in a script.js file."_
 
-For this assignment, I decided to code a website for my _Introduction to IM_'s final project called _"SSINY"_, an interactive painting working with sensors on Arduino, and reproduced and drawn on Processing. The serial communication between these two software allows the user to participate in the making of this piece. The purpose of this project is to reinforce the melancholic tone of the original painting through the interactivity provided by the sensors, adding sound, movement, animation and playing with the color palette.
+For this assignment I decided to keep constructing my portfolio's website. Since one of the options was to create an image carousel, I thought of using this interaction to display the projects I've been making in the previous years with a brief description.
 
-To showcase my project on the website, I want to have an image displaying my artwork and a video explaining how it works with the sensors. This is the wireframe I considered the most efficient for this:
+To continue with the minimalist theme of my last assignment, I divided my wireframe in three sections with a header, the image carousel, and a button for reading the description:
 
 #### Wireframe :
 
 <img src="wireframe.png" height ="500" />
 
-Coding the website was simple after learning how to use ['display: flex'](https://flexboxfroggy.com/) on CSS. I also coded a [sample webpage](https://andresugartechea.github.io/ConnectionsLab/homework/week1/1_intro_to_html/) to study the different tags on HTML and properties on CSS.
+My lack of practice with JavaScript made me come up with an unpolished product. Some changes that I want to make in the future is to add different states to the _"Read description"_ button, so the user is able to see the image described again. In addition, I want to incorporate a menu to mix all my websites together and give homogeneity.
 
 #### Preview: 
 
