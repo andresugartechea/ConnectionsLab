@@ -1,0 +1,51 @@
+body{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+h1{
+
+    background-color: white; 
+}
+
+.gallery{
+    /* background-color: black; */
+    width: 650px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    color: white; 
+
+}
+
+.gallery__button{
+
+    background-color: white;
+    width: 50px;
+    height: 80px;
+}
+
+.gallery__image{
+
+    background-color: rgb(0, 0, 0);
+    padding: 2px;
+    width: 500px;
+}
+
+#description{
+
+    position: absolute;
+    right: 50%;
+    top:50%;
+    background-color: red;
+}
+
+
+.description__button{
+    background-color: rgb(255, 255, 255);
+}
