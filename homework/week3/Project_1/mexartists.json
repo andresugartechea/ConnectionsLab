@@ -1,0 +1,68 @@
+{
+	"Artists": [{
+			"Name": "Diego Rivera",
+			"Pronouns": "He/Him",
+			"Born": 1886,
+			"Died": 1957,
+			"Quote": "As an artist I have always tried to be faithful to my vision of life, and I have frequently been in conflict with those who wanted me to paint not what I saw but what they wished me to see."
+		},
+		{
+			"Name": "Frida Kahlo",
+			"Pronouns": "She/Her",
+			"Born": 1907,
+			"Died": 1954,
+			"Quote": "I paint flowers so they will not die."
+			
+		},
+		{
+			"Name": "David Alfaro Siqueiros",
+			"Pronouns": "He/Him",
+			"Born": 1896,
+			"Died": 1974,
+			"Quote": "Art is a weapon that penetrates the eyes, the ears, the deepest and subtlest human feelings."
+
+		},
+		{
+			"Name": "José Clemente Orozco",
+			"Pronouns": "He/Him",
+			"Born": 1883,
+			"Died": 1949,
+			"Quote": "Art is Knowledge at the service of emotion"
+		},
+		{
+			"Name": "Rufino Tamayo",
+			"Pronouns": "He/Him",
+			"Born": 1899,
+			"Died": 1991,
+			"Quote": "Art is a means of expression that must be understood by everybody, everywhere."
+		},
+		{
+			"Name": "Leonora Carrington",
+			"Pronouns": "She/Her",
+			"Born": 1917,
+			"Died": 2011,
+			"Quote": "You may not believe in magic but something very strange is happening at this very moment."
+		},
+		{
+			"Name": "Gabriel Orozco",
+			"Pronouns": "He/Him",
+			"Born": 1962,
+			"Died": "present",
+			"Quote": "I believe that a small action or a subtle gesture in life can change many, many things"
+		},
+		{
+			"Name": "Francisco Toledo",
+			"Pronouns": "He/Him",
+			"Born": 1940,
+			"Died": 2019,
+			"Quote": "My parents are migrants ; I'm more from the city than the country, but I always knew what the country was, and from there comes what I paint, though I do not come from a primitive world."
+		},
+		{
+			"Name": "José Guadalupe Posada",
+			"Pronouns": "He/Him",
+			"Born": 1852,
+			"Died": 1913,
+			"Quote": "Death is democratic. At the end, regardless of whether you are white, dark, rich or poor, we all end up as skeletons."
+		}
+	]
+}
