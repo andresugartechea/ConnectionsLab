@@ -10,6 +10,8 @@ My project is a webpage with a design similar to a Zoom meeting presenting boxes
 
 #### Preview: 
 
+This first prototype got me a bit frustrated, since I had trouble understanding how the communication between the .hmtl, -json and .js files works. To continue with my project, I want to use my JSON to link the audios, backgrounds and drawings for my website. Something I need to work on is finding more strategies for when I get stuck with my assignments. 
+
 <img src="screenshot.png" height ="500" />
 
 [_Click here to see my website_](https://andresugartechea.github.io/ConnectionsLab/homework/week3/Project_1/)
