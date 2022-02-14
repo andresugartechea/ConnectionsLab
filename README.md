@@ -4,3 +4,5 @@
 [week 1](https://andresugartechea.github.io/ConnectionsLab/homework/week1/)
 
 [week 2](https://andresugartechea.github.io/ConnectionsLab/homework/week2/)
+
+[week 3](https://andresugartechea.github.io/ConnectionsLab/homework/week3/)
