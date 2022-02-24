@@ -1,0 +1,64 @@
+
+<!-- //HTML -->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width">
+		<title>Karen Smith's Weather Report</title> 
+		<link rel="icon" type="image/x-icon" href="./images/favicon.ico">
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
+
+	<img src="images/tele.png" id="tele">
+
+	<body>
+		<!-- to use the p5.js library -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
+
+		<!-- to link with js -->
+		<script type="text/javascript" src="app.js"></script>
+
+		<!-- CONTENT GOES HERE -->
+
+
+		<div class="temperature">
+			<p id="tempValue">Temperature</p>
+			<input type="submit" value="C" id ="tempUnit">
+		</div>
+
+		<div class="details">
+			<p id="feels_like">Feels like</p>
+			<p id="humidity">Humidity</p>
+			<p id="wind">Wind</p>
+
+		</div>
+
+		<div class="city_selection">
+			<!-- <label for = "city">City:</label> -->
+				<select name = "city" id = "city">
+					<option value="Abu Dhabi" label = "ABU DHABI"></option>
+					<option value="New York" label = "NEW YORK">
+					<option value="Mexico" label = "MEXICO">
+				</select>
+			<input type="submit" value="&#8629;" id ="submit">
+
+			<p id="description">Description</p>
+		</div>
+
+		
+
+
+		<!-- <form action="/action_page.php"> -->
+		<!-- <input list="cities" placeholder="Abu Dhabi">
+		<datalist id="cities">
+			<option value="Abu Dhabi">
+			<option value="New York">
+			<option value="Mexico">
+		</datalist>
+		<input type="submit" value="Submit">
+		</form>  -->
+
+	</body>	
+</html>

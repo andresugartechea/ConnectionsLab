@@ -1,0 +1,94 @@
+@font-face {
+    font-family: "Super Mario World Text Box";
+    src: url(fonts/superMarioFont.ttf);
+}
+
+body{
+    /* position: relative; */
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    color: yellow;
+    font-family: "Super Mario World Text Box";
+    line-height: 6px;
+
+}
+
+/* #defaultCanvas0{
+    position: fixed;
+} */
+
+.temperature{
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: noWrap; */
+    position: absolute;
+    top:180px;
+    left: 270px;
+    
+    font-size: 30px;
+    color: rgb(3, 10, 83);
+    opacity: 80%;
+
+
+}
+
+.details{
+    /* background-color: blue; */
+    position: absolute;
+    top:140px;
+    left: 400px;
+    color: yellow;
+
+}
+
+.city_selection{
+    /* background-color: rgb(211, 123, 8); */
+    position: absolute;
+    top:140px;
+    left:820px;
+    color: blue;
+}
+
+#tele{
+    position: absolute;
+    left: 90px;
+    top:10px;
+
+}
+
+/* #tempUnit{
+    background-color: none;
+} */
+
+input[type=submit]{
+    background: none;
+    border: none;
+    border-style: outset;
+    text-decoration: none;
+    /* margin: 4px 2px; */
+    cursor: pointer;
+    font-family: "Super Mario World Text Box";
+    font-size: 30px;
+    color: red;
+    padding-top: 4px;
+    height: 40px;
+  }
+
+#submit{
+    border-style: outset;
+}
+
+#city{
+    background: none;
+    border:none;
+    border-style: inset;
+    text-decoration: none;
+    /* margin: 4px 2px; */
+    cursor: pointer;
+    font-family: "Super Mario World Text Box";
+    font-size: 30px;
+    color: red;
+}
