@@ -1,0 +1,83 @@
+@font-face {
+    font-family: "Super Mario World Text Box";
+    src: url(fonts/superMarioFont.ttf);
+}
+
+body{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+    background-color: black;
+    color: yellow;
+
+    font-family: "Super Mario World Text Box";
+    line-height: 6px;
+}
+
+
+.temperature{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top:180px;
+    left: 270px;
+    
+    color: rgb(3, 10, 83);
+    font-size: 30px;
+    opacity: 80%;
+}
+
+.details{
+    position: absolute;
+    top:140px;
+    left: 400px;
+
+    color: yellow;
+}
+
+.city_selection{
+    position: absolute;
+    top:140px;
+    left:820px;
+
+    color: blue;
+}
+
+#tele{
+    position: absolute;
+    left: 90px;
+    top:10px;
+}
+
+input[type=submit]{
+    background: none;
+    border: none;
+    border-style: outset;
+    text-decoration: none;
+    cursor: pointer;
+
+    padding-top: 4px;
+    height: 40px;
+
+    color: red;
+    font-family: "Super Mario World Text Box";
+    font-size: 30px;
+  }
+
+#submit{
+    border-style: outset;
+}
+
+#city{
+    background: none;
+    border:none;
+    border-style: inset;
+    text-decoration: none;
+    cursor: pointer;
+
+    color: red;
+    font-family: "Super Mario World Text Box";
+    font-size: 30px;
+}

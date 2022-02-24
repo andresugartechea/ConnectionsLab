@@ -1,0 +1,56 @@
+<!-- 
+	Name: Andres Ugartechea
+	Course: Connections Lab
+	Project 1: "Karen Smith's Weather Report"
+
+	References used: I used the Open Weather's API (https://openweathermap.org/api) and I followed the tutorial by The Coding Train (https://www.youtube.com/watch?v=DbcLg8nRWEg) to learn how to use it.
+ -->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width">
+		<title>Karen Smith's Weather Report</title> 
+		<link rel="icon" type="image/x-icon" href="./images/favicon.ico">
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
+
+	<img src="images/tele.png" id="tele">
+
+	<body>
+		<!-- to use the p5.js library -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
+
+		<!-- to link with js -->
+		<script type="text/javascript" src="app.js"></script>
+
+		<!-- temperature of the weather -->
+		<div class="temperature">
+			<p id="tempValue">Temperature</p>
+			<input type="submit" value="C" id ="tempUnit">
+		</div>
+
+		<!-- details about the weather -->
+		<div class="details">
+			<p id="feels_like">Feels like</p>
+			<p id="humidity">Humidity</p>
+			<p id="wind">Wind</p>
+
+		</div>
+
+		<!-- to change the location where the weather is forecasted -->
+		<div class="city_selection">
+			<select name = "city" id = "city">
+				<option value="Abu Dhabi" label = "ABU DHABI"></option>
+				<option value="New York" label = "NEW YORK">
+				<option value="Mexico" label = "MEXICO">
+			</select>
+			<input type="submit" value="&#8629;" id ="submit">
+
+			<!-- general description of the weather -->
+			<p id="description">Description</p>
+		</div>
+
+	</body>	
+</html>
