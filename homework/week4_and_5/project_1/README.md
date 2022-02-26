@@ -35,5 +35,3 @@ The final concept aimed to combine both concepts: an interactive box (in this ca
 
 ## Final result: 
 
-
-[You can click see to see how my project works](https://youtu.be/N0Urd3sjneE)
