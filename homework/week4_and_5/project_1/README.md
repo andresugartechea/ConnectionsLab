@@ -125,12 +125,15 @@ function draw(){
    ### User interaction:
    
  · Change from metrical to imperial unit and viceversa.
+ 
    <img src="tempUnit.png" width ="500" />  
    
  · Change location of weather forecast.
+ 
    <img src="change_city.png" width ="500" />
    
  · Display dialogue.
+ 
    <img src="dialogue.png" width ="500" />
   
  · Move Karen Smith with your mouse.
