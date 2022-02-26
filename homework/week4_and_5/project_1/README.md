@@ -21,9 +21,15 @@ The second concept that helped mold the final version was a Mario Bros videogame
 
 The final concept aimed to combine both concepts: an interactive box (in this case, a television) that displays information about the weather and a famous character that represents the meteorologist.
 
-   #### Wireframe: 
+   #### Wireframe and concept: 
    
    <img src="wireframe.png" width ="1000" />
+   
+The concept of this project is to be a tribute to Karen Smith from Mean Girls, making a reference to the scene where she accomplishes her dream forecasting the weather on a tv channel. The target audience is fans of Mean Girls or pop culture that check the weather.
+
+<img src="karen_weather.jpg" width ="1000" />
+
+ My purpose for this first project was to have fun while learning more about website design and development.
 
    #### Major problems and solutions:
    
@@ -118,9 +124,26 @@ function draw(){
 
    ### User interaction:
    
-   <img src="dialogue.png" width ="500" />
+ · Change from metrical to imperial unit and viceversa.
+   <img src="tempUnit.png" width ="500" />  
+   
+ · Change location of weather forecast.
    <img src="change_city.png" width ="500" />
-   <img src="tempUnit.png" width ="500" />
+   
+ · Display dialogue.
+   <img src="dialogue.png" width ="500" />
+  
+ · Move Karen Smith with your mouse.
+
    
    ### Next steps:
+   
+ Based on the feedback given by my friends and classmates, I'd like to implement in the future the following functionalities:
+ - More Mean Girls' easter eggs and references with the animations.
+ - Add the time and date, so it can be more functional for daily purposes. 
+ - Design the website also for mobile devices.
+ - Making this a software widget.
+
+[Click here to see my website :)](https://andresugartechea.github.io/ConnectionsLab/homework/week4_and_5/project_1/)
+
 
