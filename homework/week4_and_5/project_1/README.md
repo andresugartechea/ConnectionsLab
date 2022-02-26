@@ -8,15 +8,22 @@
 
 ## Process:
 
+   #### First drafts:
+
 This project started as a [website with a design and interaction similar to Zoom](https://andresugartechea.github.io/ConnectionsLab/homework/week3/Project_1/), presenting an art journal of important Mexican visual artists. The concept was to have each character in a box that displays information about them with animations that change with the user interaction. Unfortunately, the project was discarded for its complexity and time constraints, but the idea of interactivity was kept for the next concept.
 
 <img src="first_idea.png" width ="1000" />
+
 
 The second concept that helped mold the final version was a Mario Bros videogame that displays different scenarios and animations representing the weather. The idea was started but discarded since it was similar to a previous project I had worked on before.
 
 <img src="second_idea.png" width ="1000" />
 
-The final version was a combination of both concepts: a box (in this case, a television) displaying a character that 
+The final concept aimed to combine both concepts: an interactive box (in this case, a television) that displays information about the weather and a famous character that represents the meteorologist.
+
+   #### Wireframe: 
+   
+   <img src="wireframe.png" width ="1000" />
 
    #### Major problems and solutions:
    
