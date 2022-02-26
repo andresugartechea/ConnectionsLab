@@ -51,6 +51,39 @@ function fetchData() {
 }
 ```
 
+
+2. The second challenge was to learn how to use the information from the API, already fetched, in JavaScript. After multiple tests I used the following method: 
+
+(example with the temperature value):
+
+In the .html file:
+```
+		<!-- temperature of the weather -->
+		<div class="temperature">
+			<p id="tempValue">Temperature</p>
+			<input type="submit" value="C" id ="tempUnit">
+		</div>
+```
+
+In the .js file:
+
+```
+function draw(){
+
+  background(94,145,254);
+
+  if (weather){
+
+    //change unit of temperature
+    tempUnitValue = document.getElementById("tempUnit").value;
+
+    tempValue.innerHTML = round(weather.main.temp);
+
+  }
+}
+```
+
+
    
    ### Next steps:
 
