@@ -25,7 +25,7 @@ The final concept aimed to combine both concepts: an interactive box (in this ca
    
    <img src="wireframe.png" width ="1000" />
    
-The concept of this project is to be a tribute to Karen Smith from Mean Girls, making a reference to the scene where she accomplishes her dream forecasting the weather on a tv channel. The target audience is fans of Mean Girls or pop culture that check the weather.
+The concept of this project is to be a tribute to Karen Smith from Mean Girls, making a reference to the scene where she accomplishes her dream of  forecasting the weather on a tv channel. The target audience is fans of Mean Girls or pop culture that check the weather.
 
 <img src="karen_weather.jpg" width ="1000" />
 
