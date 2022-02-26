@@ -27,6 +27,31 @@ The final concept aimed to combine both concepts: an interactive box (in this ca
 
    #### Major problems and solutions:
    
+1. The main challenge for this project was to figure out how to work with API’s, since it was my first time doing so. An important resource that helped me with this was the tutorial by [The Coding Train](https://www.youtube.com/watch?v=DbcLg8nRWEg). Although his tutorial is from three years ago, the way he implements [Open Weather’s API](https://openweathermap.org/api) is similar to the one I had to use:
+
+
+```
+//to define the URL for the API
+let api = "https://api.openweathermap.org/data/2.5/weather?";
+let lat = "lat=24.4539";      //by default it shows AD's weather
+let lon = "&lon=54.377";
+let apiKey = "&appid=e6e914a5263977da0216e71cb16d1b51";
+let unit = "&units=metric";
+
+//to fetch data
+function fetchData() {
+  let URL = api + lat + lon + apiKey + unit;
+  fetch(URL)
+  .then(response => response.json())
+  .then(data => {
+    weather = data;
+    console.log(weather);
+  })
+
+}
+```
+
+   
    ### Next steps:
 
 
