@@ -1,4 +1,4 @@
-# Connections Lab | Project 1: _Karen Smith's Weather Report
+# Connections Lab | Project 1: _Karen Smith's Weather Report_
 
 ## Project description:
 
