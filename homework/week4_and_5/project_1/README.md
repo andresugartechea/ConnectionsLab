@@ -78,13 +78,47 @@ function draw(){
 }
 ```
 
+For the other details about the weather I followed the same logic. 
 
-   
-   ### Next steps:
+   #### Summary of the steps followed:
+  
+1. Fetch the data from the API.
+2. Assign elements from the data to a variable in the .js file.
+3. Call an id from the .html file to modify the text context with the variables.
+4. Display images of the background according to the location selected by the user (_displayCity()_).
+5. Check general description of the weather and display animation according to that (_checkWeather()_).
+6. Display image of "Karen Smith" that moves following the 'x' position of the cursor (_displayKaren()_).
+7. Display dialogue when a key is pressed (_displayDialogue()_).
 
+```
+function draw(){
 
+  background(94,145,254);
+
+  if (weather){
+    displayCity();
+    
+    //change unit of temperature
+    tempUnitValue = document.getElementById("tempUnit").value;
+
+    tempValue.innerHTML = round(weather.main.temp);
+    feelsValue.innerHTML = "Feels like: "+ round(weather.main.feels_like) + " " +  document.getElementById("tempUnit").value;
+    humidValue.innerHTML = "Humidity: "+ weather.main.humidity + "%";
+    windValue.innerHTML = "Wind: "+ weather.wind.speed + windUnitValue;
+    description.innerHTML = (weather.weather[0].description);
+
+    checkWeather();
+    displayKaren();
+    displayDialogue();
+  }
+}
+```
 
 
 
 ## Final result: 
+
+   ### User interaction:
+   
+   ### Next steps:
 
