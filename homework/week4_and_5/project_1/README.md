@@ -114,11 +114,13 @@ function draw(){
 }
 ```
 
-
-
 ## Final result: 
 
    ### User interaction:
+   
+   <img src="dialogue.png" width ="500" />
+   <img src="change_city.png" width ="500" />
+   <img src="tempUnit.png" width ="500" />
    
    ### Next steps:
 
