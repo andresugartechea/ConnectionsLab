@@ -6,10 +6,39 @@ For the creation of my first server I reused my JSON about famous visual artists
 
 
 
-#### Review:  
+#### Results:  
 
 localhost:**800**
+
+<img src="screen_main.png" width ="500" />
+
+<img src="screen_display.png" width ="500" />
+
+localhost:800/**about**
+
 <img src="screen_about.png" width ="500" />
+
+localhost:800/about/**artists**
+
+<img src="screen_artists.png" width ="500" />
+
+localhost:800/about/artists?**name=SOMETHING**
+
+<img src="screen_name.png" width ="500" />
+
+<img src="screen_name1.png" width ="500" />
+
+localhost:800/about/artists/**pronouns**
+
+<img src="screen_prn.png" width ="500" />
+
+localhost:800/about/artists/**quotes**
+
+<img src="screen_quotes.png" width ="500" />
+
+localhost:800/about/artists/**:from-:to**
+
+<img src="screen_dates.png" width ="500" />
 
 [_Click here to download my website's files_](https://drive.google.com/drive/folders/1aLzL_ErmrO3g320udtbd_L1geiZB_Oqv?usp=sharing)
 
