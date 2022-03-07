@@ -47,10 +47,18 @@ app.get('/artists', (req,res) => {
 })
 ```
 
-In my _index.html_
 localhost:800/about/artists?**name=SOMETHING**
 
 <img src="screen_name.png" width ="800" />
+
+I also learned how to use text input to change the URL and send a query. This is the code snippet from my _index.html_ that does that:
+
+```
+  <form action="/artists">
+    <p> Search by last name: <input label = "name" type="text" id="name" name="name"> </p>
+  </form>
+```
+Typing the name on the text box and pressing ENTER sends the query.
 
 <img src="screen_name1.png" width ="500" />
 
@@ -68,9 +76,15 @@ localhost:800/about/artists/**quotes**
 
 ## 5. Add route to show artists from a certain period.
 
+I used _req.params_ for this part. I used this [guide](https://expressjs.com/en/guide/routing.html) as reference to learn how to capture the values specified at their position in the URL.
+
 localhost:800/about/artists/**:from-:to**
 
 <img src="screen_dates.png" width ="500" />
+
+#### Next steps:
+
+For the next steps I want to learn how to change the URL and send more queries with the user input. It's something that I couldn't implement in this version of my assignment and would like to change in the future.
 
 [_Click here to download my website's files_](https://drive.google.com/drive/folders/1aLzL_ErmrO3g320udtbd_L1geiZB_Oqv?usp=sharing)
 
