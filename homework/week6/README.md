@@ -50,7 +50,7 @@ app.get('/artists', (req,res) => {
 In my _index.html_
 localhost:800/about/artists?**name=SOMETHING**
 
-<img src="screen_name.png" width ="500" />
+<img src="screen_name.png" width ="800" />
 
 <img src="screen_name1.png" width ="500" />
 
@@ -58,13 +58,13 @@ localhost:800/about/artists?**name=SOMETHING**
 
 localhost:800/about/artists/**pronouns**
 
-<img src="screen_prn.png" width ="500" />
+<img src="screen_prn.png" width ="800" />
 
 ## 4. Add route to show only the artists' quotes.
 
 localhost:800/about/artists/**quotes**
 
-<img src="screen_quotes.png" width ="500" />
+<img src="screen_quotes.png" width ="800" />
 
 ## 5. Add route to show artists from a certain period.
 
