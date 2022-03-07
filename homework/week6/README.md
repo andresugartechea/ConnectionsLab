@@ -4,23 +4,29 @@
 
 For the creation of my first server I reused my JSON about famous visual artists in Mexico from the [concept of my first project](https://github.com/andresugartechea/ConnectionsLab/blob/main/homework/week3/Project_1/mexartists.json). Thanks to this, I was able to find a couple of errors that I had made in the past when I was trying to fecth my .json file on JavaScript. 
 
+#### Steps and results:  
 
+## 1. Run the server: get information from the ‘/’ route and listen to the browser on port 8000.
 
-#### Results:  
+For this first step, I followed the process seen in [class](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_6_Node_Express). In my _public_ folder I put a _index.html_ and _app.js_ to fecth and display the information from the API that I created.
 
 localhost:**800**
 
 <img src="screen_main.png" width ="500" />
 
+The information contained in the API is displayed when the button is clicked
+
 <img src="screen_display.png" width ="500" />
 
-localhost:800/**about**
+My localhost:800/**about** page describes briefly what the API is about.
 
 <img src="screen_about.png" width ="500" />
 
-localhost:800/about/**artists**
+localhost:800/about/**artists** displays the JSON file with all the information.
 
 <img src="screen_artists.png" width ="500" />
+
+## 2. Add query to find artists by their name
 
 localhost:800/about/artists?**name=SOMETHING**
 
