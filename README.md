@@ -7,4 +7,6 @@
 
 [week 3](https://andresugartechea.github.io/ConnectionsLab/homework/week3/)
 
-[week 4-6 (project 1)](https://andresugartechea.github.io/ConnectionsLab/homework/week4_and_5/project_1)
+[week 4-5 (project 1)](https://andresugartechea.github.io/ConnectionsLab/homework/week4_and_5/project_1)
+
+[week 6](https://andresugartechea.github.io/ConnectionsLab/homework/week6/)
