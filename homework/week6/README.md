@@ -12,11 +12,11 @@ For this first step, I followed the process seen in [class](https://github.com/M
 
 localhost:**800**
 
-<img src="screen_main.png" width ="500" />
+<img src="screen_main.png" width ="800" />
 
 The information contained in the API is displayed when the button is clicked
 
-<img src="screen_display.png" width ="500" />
+<img src="screen_display.png" width ="800" />
 
 My localhost:800/**about** page describes briefly what the API is about.
 
@@ -26,21 +26,47 @@ localhost:800/about/**artists** displays the JSON file with all the information.
 
 <img src="screen_artists.png" width ="500" />
 
-## 2. Add query to find artists by their name
+## 2. Add query to find artists by their name.
 
+I based this part of the code on the exercise done in class using a different type of value (a string instead of a integer). This helped me learn and practice how _req.query_ works.
+
+```
+app.get('/artists', (req,res) => {
+    let name = req.query.name;
+    if (name){
+        if(!mexArtists[name]) {
+            res.json({error : "no artists found with this name"})
+        }
+        else {
+            res.json(mexArtists[name]);
+        }
+    }
+    else{
+        res.json(mexArtists);
+    }
+})
+```
+
+In my _index.html_
 localhost:800/about/artists?**name=SOMETHING**
 
 <img src="screen_name.png" width ="500" />
 
 <img src="screen_name1.png" width ="500" />
 
+## 3. Add route to classify artists by their pronouns.
+
 localhost:800/about/artists/**pronouns**
 
 <img src="screen_prn.png" width ="500" />
 
+## 4. Add route to show only the artists' quotes.
+
 localhost:800/about/artists/**quotes**
 
 <img src="screen_quotes.png" width ="500" />
+
+## 5. Add route to show artists from a certain period.
 
 localhost:800/about/artists/**:from-:to**
 
