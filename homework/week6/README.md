@@ -86,5 +86,11 @@ localhost:800/about/artists/**:from-:to**
 
 For the next steps I want to learn how to change the URL and send more queries with the user input. It's something that I couldn't implement in this version of my assignment and would like to change in the future.
 
-[_Click here to download my website's files_](https://drive.google.com/drive/folders/1aLzL_ErmrO3g320udtbd_L1geiZB_Oqv?usp=sharing)
+#### New Version (March 8th):
+
+Apparently, I had misunderstood the assignment instructions and I had forgotten to add a user flow from the front end. My new version looks like this:
+
+<img src="final.png" width ="500" />
+
+[_Click here to download my website's files (old and new version)_](https://drive.google.com/drive/folders/1aLzL_ErmrO3g320udtbd_L1geiZB_Oqv?usp=sharing)
 
