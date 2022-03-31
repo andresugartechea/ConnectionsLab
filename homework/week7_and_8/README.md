@@ -18,6 +18,6 @@ My idea shifted to a "Graffiti Wall" with the same principles as the collage mak
 
 <img src="screenshot.png" height ="500" />
 
-[_Click here to see my website_]https://inky-tender-gibbon.glitch.me/)
+[_Click here to see my website_](https://inky-tender-gibbon.glitch.me/)
 and [click here to see my code](https://glitch.com/edit/#!/inky-tender-gibbon)
 
