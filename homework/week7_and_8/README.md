@@ -18,6 +18,8 @@ I wrote down as suggested the steps for my code. At the end, the process for dev
 
 #### Errors and next steps:
 
+Something that I need to fix in my code is that when the user tries to change the color or the size of their graffiti, it changes the style of the previous graffitis as well. I think this is because the part of my code that updates the font color and size is in drawing.
+
 ```
 function draw(){   
 
@@ -62,7 +64,7 @@ function draw(){
 }
 
 ```
-
+I didn't have time to test this, but my guess is that for fixing this I need to send the 'colorMode' and 'font_size' as part of the object 'msgPost', and then emit it to the server.
 
 ```
 In _function keyPressed()_
@@ -85,7 +87,11 @@ In _function keyPressed()_
     }
 ```
 
+A next step would be to allow the user to rotate the text, add more colors and add more font options.
+
 #### Preview: 
+
+This is how my website looks like.
 
 <img src="preview.png" height ="500" />
 
