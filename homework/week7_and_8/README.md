@@ -21,7 +21,7 @@ I wrote down as suggested the steps for my code. At the end, the process for dev
 
 #### Preview: 
 
-
+<img src="preview.png" height ="500" />
 
 [_Click here to see my website_](https://inky-tender-gibbon.glitch.me/)
 and [click here to see my code](https://glitch.com/edit/#!/inky-tender-gibbon)
