@@ -16,8 +16,73 @@ I wrote down as suggested the steps for my code. At the end, the process for dev
 <img src="steps2.jpg" height ="500" /> <img src="steps1.jpg" height ="500" />
 
 
-#### Obstacles and erros:
+#### Errors and next steps:
 
+```
+function draw(){   
+
+    background(bg); 
+  
+    //if there's an input, if not just display default message
+    if (msg_text){
+        message = msg_text;
+    }
+
+    //NOTE: I NEED TO CHANGE THIS, SINCE IT MODIFIES ALL THE TEXTS AND NOT ONLY THE ONE THE USER IS CONTROLLING
+
+    //The font size changes with the key arrows
+    textSize(font_size);
+    textAlign(CENTER);
+
+    //to display a preview of the text
+    text(message, mouseX, mouseY);
+
+    //color mode changes with left and right key arrows
+    if (color_mode == 1){
+        fill(0);
+    }
+    else if (color_mode == 2){
+        fill(255);
+    }
+    else if (color_mode == 3){
+        fill(255,0,0);
+    }
+    else if (color_mode == 4){
+        fill(0,255,0)
+    }
+    else if (color_mode == 5){
+        fill(0,0,255);
+    }
+
+    //to draw each previous graffiti
+    for (i in drawingCoords){
+        text(drawingCoords[i].message, drawingCoords[i].x, drawingCoords[i].y);
+    }
+
+}
+
+```
+
+In _function keyPressed()_
+
+```
+    //to place the text and send the coordinates and text to all the users
+    else if (key === " "){
+        let x = mouseX;
+        let y = mouseY;
+    
+        //NOTE: ADD color_mode AND font_size HERE, SO NOT ALL THE TEXTS CHANGE WITH THE KEY ARROWS
+        let msgPost =
+        { 
+            x: round(x),
+            y: round(y),
+            message: message 
+        };
+        //console.log(msgPost)
+        //emit this information to the server
+        socket.emit("msgPositionData", msgPost)
+    }
+```
 
 #### Preview: 
 
