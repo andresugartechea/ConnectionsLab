@@ -87,8 +87,6 @@ In _function keyPressed()_
 
 #### Preview: 
 
-This is the final result:
-
 <img src="preview.png" height ="500" />
 
 [_Click here to see my website_](https://inky-tender-gibbon.glitch.me/)
