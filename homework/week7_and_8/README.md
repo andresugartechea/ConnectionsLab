@@ -16,9 +16,7 @@ My idea shifted to a "Graffiti Wall" with the same principles as the collage mak
 #### Preview: 
 
 
-<img src="steps1.jpg" height ="500" />
-
-<img src="steps2.jpg" height ="500" />
+<img src="steps1.jpg" height ="500" /> <img src="steps2.jpg" height ="500" />
 
 [_Click here to see my website_](https://inky-tender-gibbon.glitch.me/)
 and [click here to see my code](https://glitch.com/edit/#!/inky-tender-gibbon)
