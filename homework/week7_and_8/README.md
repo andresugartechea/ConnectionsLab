@@ -63,9 +63,10 @@ function draw(){
 
 ```
 
-In _function keyPressed()_
 
 ```
+In _function keyPressed()_
+
     //to place the text and send the coordinates and text to all the users
     else if (key === " "){
         let x = mouseX;
