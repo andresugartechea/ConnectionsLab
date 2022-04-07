@@ -13,4 +13,4 @@
 
 [week 7-8](https://andresugartechea.github.io/ConnectionsLab/homework/week7_and_8/)
 
-[week9 (progress project 2)](https://andresugartechea.github.io/ConnectionsLab/homework/week9/)
+[week 9 (progress project 2)](https://andresugartechea.github.io/ConnectionsLab/homework/week9/)
