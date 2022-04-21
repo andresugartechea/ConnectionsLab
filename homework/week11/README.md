@@ -4,7 +4,9 @@
 
 For this week’s assignment, I decided to work with [Three.js](https://threejs.org/). It was the JavaScript library whose examples appealed to me the most, particularly the [Apple website](https://www.apple.com/in/iphone-13/) since it made me understand the relevance of mastering this tool. My goal for this assignment was to use the documentation and online tutorials to learn the basics of Three.js and feel comfortable with it.
 
-#### Wireframe :
+#### Wireframe and steps:
+
+The wireframe for this website is very simple. I wanted the canvas to cover all the page, so I could focus on the implementation of different features from the library rather than on the UI. On the canvas, I render and animate one geometrical shape and experiment on different ways we can play with it on Three.js (such as changing the color, size, texture, etc).
 
 <img src="wireframe.png" height ="400" />
 
