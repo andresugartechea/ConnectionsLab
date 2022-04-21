@@ -5,7 +5,7 @@
 #### Wireframe :
 
 
-<img src="1.jpeg" height ="50" /><img src="2.jpg" height ="50" /><img src="3.jpg" height ="50" /><img src="4.jpg" height ="50" /><img src="5.jpg" height ="50" /><img src="6.jpg" height ="50" />
+<img src="1.jpeg" height ="100" /><img src="2.jpg" height ="100" /><img src="3.jpg" height ="100" /><img src="4.jpg" height ="100" /><img src="5.jpg" height ="100" /><img src="6.jpg" height ="100" />
 
 
 #### Preview: 
