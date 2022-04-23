@@ -10,6 +10,8 @@ The wireframe for this website is very simple. I wanted the canvas to cover all 
 
 <img src="wireframe.png" height ="400" />
 
+The first thing that I 
+
 <img src="1.jpeg" height ="100" /><img src="2.jpg" height ="100" /><img src="3.jpg" height ="100" /><img src="4.jpg" height ="100" /><img src="5.jpg" height ="100" /><img src="6.jpg" height ="100" />
 
 
