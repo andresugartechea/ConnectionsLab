@@ -18,3 +18,7 @@
 [week 10 (project 2)](https://github.com/andresugartechea/Project2)
 
 [week 11](https://andresugartechea.github.io/ConnectionsLab/homework/week11/)
+
+[final project repository](https://github.com/fnassar/Slenderman)
+
+[final project Glitch link (to test on phone)](https://pinnate-scratch-honeysuckle.glitch.me/)
