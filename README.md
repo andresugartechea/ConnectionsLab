@@ -19,6 +19,4 @@
 
 [week 11](https://andresugartechea.github.io/ConnectionsLab/homework/week11/)
 
-[final project repository](https://github.com/fnassar/Slenderman)
-
-[final project Glitch link (to test on phone)](https://slenderman-scavenger-hunt.glitch.me/)
+[final project repository](https://github.com/fnassar/Slenderman) || [final project Glitch link (to test on phone)](https://slenderman-scavenger-hunt.glitch.me/)
