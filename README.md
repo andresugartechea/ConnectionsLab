@@ -21,4 +21,4 @@
 
 [final project repository](https://github.com/fnassar/Slenderman)
 
-[final project Glitch link (to test on phone)](https://pinnate-scratch-honeysuckle.glitch.me/)
+[final project Glitch link (to test on phone)](https://slenderman-scavenger-hunt.glitch.me/)
